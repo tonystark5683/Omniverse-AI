@@ -1,6 +1,6 @@
-# AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe, Clerk, OpenAPI, Replicate, PlanetScale, MySQL, TypeScript & Crisp
+# AI SaaS Platform with Next.js 13, React, Tailwind, Prisma, Stripe, Clerk, OpenAPI, Replicate, PlanetScale/NeonDB, MySQL, TypeScript & Crisp
 
-Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
+
 
 Features:
 
@@ -94,3 +94,5 @@ Running commands with yarn `yarn [command]`
 | `lint`          | Run lint check                                |
 | `build`         | Start building app for deployment             |
 | `start`         | Run build version of app                      |
+
+Credits: [Antonio](https://github.com/AntonioErdeljac)
