@@ -27,10 +27,11 @@ Features:
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./assets/landing-page.png)
+![Landing Page](./gitImages/landing-page.jpg)
 
 ### Main Platform View
-![Main Platform View](./assets/platform-view.png)
+![Main Platform View](./gitImages/view-page.jpg)
+
 ### Prerequisites
 
 **Node version 18.x.x**
