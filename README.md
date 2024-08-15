@@ -23,7 +23,14 @@ Features:
 - Reuseable layouts
 - Folder structure in Next 13 App Router
 - Beutiful Landing Page with Testimonials
+  
+## Screenshots
 
+### Landing Page
+![Landing Page](./assets/landing-page.png)
+
+### Main Platform View
+![Main Platform View](./assets/platform-view.png)
 ### Prerequisites
 
 **Node version 18.x.x**
