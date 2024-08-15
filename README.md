@@ -31,7 +31,8 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/ai-saas.git
+git clone https://github.com/tonystark5683/Omniverse-AI.git
+
 ```
 
 ### Run with yarn zero install
